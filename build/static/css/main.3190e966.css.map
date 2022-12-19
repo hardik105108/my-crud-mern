@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3190e966.css","mappings":"AAAA,KACE,eACF,CACA,cACE,WAAY,CACZ,UAEF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: left;\n}\n.card-img-top{\n  height: 25px;\n  width: 25px;\n\n}\n"],"names":[],"sourceRoot":""}
